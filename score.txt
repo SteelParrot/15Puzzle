@@ -1,2 +1,0 @@
-lastTime=0
-bestTime=2147483647
